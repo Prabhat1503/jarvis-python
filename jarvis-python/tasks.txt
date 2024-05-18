@@ -1,0 +1,16 @@
+0. wake up at 5 
+1. go to college on time 
+2. complete the project 
+0. wake up at 5 
+1. sleep at 10 
+2. repeat
+0. abcd
+1. efgh
+2. ijkl
+0. wake up at 4
+1. sleep at 10
+2. go to college
+0. wake up at 5 
+1. sleep at 10
+0. hmhmv 
+1. qwqwq
