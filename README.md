@@ -139,8 +139,7 @@ os: Interacting with the operating system (part of the Python Standard Library).
 13. News Function : It will help you to get the top headlines in your chosen field
 
 14. Calculator
-
-15.Whatsapp automation 
+15. Whatsapp automation 
 
 16. Shutdown system with your voice
 
